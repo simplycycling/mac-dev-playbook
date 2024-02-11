@@ -1,0 +1,15 @@
+homebrew_installed_packages:
+  - git
+  - go
+  - tmux
+
+configure_dock: true
+dockitems_remove:
+  - TV
+
+dockitems_persist:
+  - name: "Firefox"
+    path: "/Applications/Firefox.app/"
+    pos: 4
+
+configure_dotfiles: true
