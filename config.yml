@@ -6,6 +6,7 @@ homebrew_installed_packages:
 configure_dock: true
 dockitems_remove:
   - TV
+  - Podcasts
 
 dockitems_persist:
   - name: "Firefox"
