@@ -2,6 +2,12 @@ homebrew_installed_packages:
   - git
   - go
   - tmux
+  - fig
+  - maccy
+  - rectangle
+  - cmatrix
+  - asciiquarium
+  - toilet
 
 configure_dock: true
 dockitems_remove:
