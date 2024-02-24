@@ -8,6 +8,7 @@ homebrew_installed_packages:
   - cmatrix
   - asciiquarium
   - toilet
+  - espanso
 
 configure_dock: true
 dockitems_remove:
