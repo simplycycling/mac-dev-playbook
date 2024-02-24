@@ -16,7 +16,6 @@ homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - docker
   - firefox
-  - licecap
   - slack
   - devtoys
   - iterm2
