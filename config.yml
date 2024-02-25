@@ -54,3 +54,12 @@ dockitems_persist:
     pos: 4
 
 configure_dotfiles: true
+configure_osx: true
+configure_terminal: false
+configure_sublime: false
+configure_sudoers: false
+sudoers_custom_config: ''
+# Example:
+# sudoers_custom_config: |
+#   # Allow users in admin group to use sudo with no password.
+#   %admin ALL=(ALL) NOPASSWD: ALL
