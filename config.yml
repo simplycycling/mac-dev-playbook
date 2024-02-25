@@ -1,11 +1,11 @@
 ---
 mas_installed_apps:
-  - { id: 425424353, name: "Skitch (2.9)" }
-  - { id: 425955336, name: "The Unarchiver (4.3.6)" }
-  - { id: 310633997, name: "WhatsApp (24.3.78)"}
-  - { id: 6444602274, name: "Ivory (1.8.4)"}
-  - { id: 1291898086, name: "Toggl Track (9.6.0)"}
-  - { id: 634148309, name: "Logic Pro (10.8.1)"}
+  - {id: 425424353, name: "Skitch (2.9)"}
+  - {id: 425955336, name: "The Unarchiver (4.3.6)"}
+  - {id: 310633997, name: "WhatsApp (24.3.78)"}
+  - {id: 6444602274, name: "Ivory (1.8.4)"}
+  - {id: 1291898086, name: "Toggl Track (9.6.0)"}
+  - {id: 634148309, name: "Logic Pro (10.8.1)"}
 
 mas_email: !vault |
           $ANSIBLE_VAULT;1.1;AES256
