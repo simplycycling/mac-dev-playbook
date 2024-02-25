@@ -55,6 +55,7 @@ dockitems_persist:
     path: "/Applications/Firefox.app/"
     pos: 4
 
+osx_script: "~/.osx --no-restart"
 configure_dotfiles: true
 configure_osx: true
 configure_terminal: false
