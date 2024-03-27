@@ -33,6 +33,7 @@ homebrew_installed_packages:
   - asciiquarium
   - toilet
   - espanso
+  - poetry
 
 homebrew_taps: []
 
@@ -44,6 +45,7 @@ homebrew_cask_apps:
   - devtoys
   - iterm2
   - warp
+  - dash
 
 configure_dock: true
 dockitems_remove:
@@ -55,12 +57,17 @@ dockitems_persist:
     path: "/Applications/Firefox.app/"
     pos: 4
 
+  - name: "Warp"
+    path: "/Applications/Warp.app/"
+    pos: 3
+
 osx_script: "~/.osx --no-restart"
 configure_dotfiles: true
-configure_osx: true
+configure_osx: false
 configure_terminal: false
 configure_sublime: false
 configure_sudoers: false
+composer_packages: false
 sudoers_custom_config: ''
 # Example:
 # sudoers_custom_config: |
